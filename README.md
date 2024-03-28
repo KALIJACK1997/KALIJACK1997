@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Developer
 - 🧑‍💻 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android project
-- 📫 How to reach me kalijackas12@gmail.com 
+- 📫 How to reach me kalidassayyanar2212@gmail.com 
 - 🌐 linkedIn id www.linkedin.com/in/kali-dass-07b523242
 
 <!---
